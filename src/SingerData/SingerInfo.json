@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Adele Laurie Blue Adkins",
+        "born": "London,England",
+        "birthdate": "May 5, 1988",
+        "image": "https://i.ibb.co/4gvvvLP/adele.jpg",
+        "awards": "Grammy Award (2017)",
+        "fare": 10000
+    },
+    {
+        "id": 2,
+        "name": "Aretha Franklin",
+        "born": "Memphis, Tennessee, U.S.",
+        "birthdate": "August 16, 2018",
+        "image": "https://i.ibb.co/5nsVWRr/aretha-franklin.jpg",
+        "award": "Grammy Award (2007)",
+        "fare": 12000
+    },
+    {
+        "id": 3,
+        "name": "Ariana Grande",
+        "born": "Boca Raton, Florida,",
+        "birthdate": "June 26, 1993",
+        "image": "https://i.ibb.co/WtmQjRC/ariana-grande.jpg",
+        "award": "American Music Awards (2013)",
+        "fare": 15000
+    },
+    {
+        "id": 4,
+        "name": "Beyoncé Giselle",
+        "born": "Houston, Texas",
+        "birthdate": "September 4, 1981",
+        "image": "https://i.ibb.co/B2pYCDc/beyonce.jpg",
+        "award": "Michael Jackson Video Vanguard Award (2014)",
+        "fare": 18000
+    },
+    {
+        "id": 5,
+        "name": "Demetria Devonne Lovato",
+        "born": "New Mexico, United States",
+        "birthdate": "August 20, 1992",
+        "image": "https://i.ibb.co/Wf7t7d6/demi-lovato.png",
+        "award": "ALMA Awards (2012)",
+        "fare": 17000
+    },
+    {
+        "id": 6,
+        "name": "Dua Lipa",
+        "born": "London,England",
+        "birthdate": "August 22, 1995 ",
+        "image": "https://i.ibb.co/n11KVLX/dua-lipa.jpg",
+        "award": "Grammy Awards (2020)",
+        "fare": 20000
+    },
+    {
+        "id": 7,
+        "name": "Edward Christopher Sheeran",
+        "born": "Halifax, United Kingdom",
+        "birthdate": "February 17, 1991",
+        "image": "https://i.ibb.co/8cGZFBf/ed-sheeran.jpg",
+        "award": "Grammy Awards (2016)",
+        "fare": 15000
+    },
+    {
+        "id": 8,
+        "name": "Freddie Mercury",
+        "born": "Stone Town, Tanzania",
+        "birthdate": "September 5, 1946",
+        "image": "https://i.ibb.co/wSMYsVj/freddie-mercury.jpg",
+        "award": "Brit Awards(1990)",
+        "fare": 23000
+    },
+    {
+        "id": 9,
+        "name": "Justin Drew Bieber",
+        "born": "London, Canada",
+        "birthdate": "March 1, 1994",
+        "image": "https://i.ibb.co/tspGsSk/justin-bieber.jpg",
+        "award": "Billboard Music Award [Nominee] (2017)",
+        "fare": 28000
+    },
+    {
+        "id": 10,
+        "name": "Julian Keith Getty",
+        "born": "Lisburn, United Kingdom",
+        "birthdate": "December 16, 1974",
+        "image": "https://i.ibb.co/p0DSkmp/Kristyn-Getty.jpg",
+        "award": "Inspirational Album of the Year (2019)",
+        "fare": 25000
+    },
+    {
+        "id": 11,
+        "name": "Lady Gaga",
+        "born": "New York, United States",
+        "birthdate": "March 28, 1986",
+        "image": "https://i.ibb.co/fddqH2J/ladygaga.jpg",
+        "award": "Academy Awards (2019)",
+        "fare": 14000
+    },
+    {
+        "id": 12,
+        "name": "Mariah Carey",
+        "born": "New York, United States",
+        "birthdate": "March 27, 1969",
+        "image": "https://i.ibb.co/CKnb3f4/Mariah.jpg",
+        "award": "Alliance of Women Film Journalists (2009)",
+        "fare": 80000
+    },
+    {
+        "id": 13,
+        "name": "Michael Joseph Jackson",
+        "born": "Indiana, United States",
+        "birthdate": "August 29, 1958",
+        "image": "https://i.ibb.co/ZYWRyLK/Michael-Jackson.jpg",
+        "award": "Grammy Awards (1984)",
+        "fare": 17500
+    },
+    {
+        "id": 14,
+        "name": "Selena Marie Gomez",
+        "born": "Grand Prairie, Texas, United States",
+        "birthdate": "July 22, 1992",
+        "image": "https://i.ibb.co/Kb6jmGD/Selena-Gomez.jpg",
+        "award": "ALMA Awards (2009)",
+        "fare": 19000
+    },
+    {
+        "id": 15,
+        "name": "Taylor Alison Swift",
+        "born": "Pennsylvania, United States",
+        "birthdate": "December 13, 1989",
+        "image": "https://i.ibb.co/zNDG4br/taylor-swift.png",
+        "award": "Grammy Awards (2021)",
+        "fare": 28000
+    }
+]

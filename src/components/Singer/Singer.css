@@ -1,0 +1,56 @@
+.singer-info{
+    background-color: rgb(235, 231, 217);
+    box-shadow: 0px 0px 30px black;
+    height: 430px;
+    width: 300px;
+    border-radius: 10px;
+}
+.imgPart{
+    height: 150px;
+    width: 150px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.imgPart img{
+  
+    height: 100%;
+    width:100%;
+    margin-right: 20px;
+    box-shadow: 0px 0px 20px rgb(21, 22, 22);
+    border-radius: 50%;
+    border: 2px solid rgb(21, 22, 22);
+}
+h3{
+   text-align: center;
+   color: crimson;
+}
+strong{
+    color: rgb(58, 52, 52);
+   
+}
+.singer-PersonalInfo{
+    text-align: center;
+}
+.billing-Portion{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 3% 0% 3%;
+    margin-top: 7%;
+}
+
+Button{
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #198754;
+    border: none;
+    color: rgb(223, 215, 202);
+}
+Button:hover {
+
+    background-color: rgb(18, 90, 57);
+    cursor: pointer;
+    
+}
+
